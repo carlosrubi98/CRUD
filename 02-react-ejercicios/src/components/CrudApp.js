@@ -8,7 +8,7 @@ const initialDb = [
     id: 1,
     nombre: "Carlos",
     apellido: "Rubí",
-    residencia : "Hermosillo,Sonora",
+    residencia : "655165151",
   },
   
   {

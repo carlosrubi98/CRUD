@@ -68,7 +68,7 @@ const CrudForm = ({ createData, updateData, dataToEdit, setDataToEdit }) => {
         />
         
         <input
-          type="text"
+          type="number"
           name="residencia"
           placeholder="Residencia"
           onChange={handleChange}
